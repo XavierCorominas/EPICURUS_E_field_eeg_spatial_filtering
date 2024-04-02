@@ -1,0 +1,6 @@
+* INFO todo the preprocessing
+
+First : proprocess de the data with preprocessing_xavi
+Second: construct_lead_field_and_passband_for_deflect_thirdversion
+Third : pass all the data trought the deflect_xavi_2
+Forth: merge datasets with merge_datasets_xavi_final
