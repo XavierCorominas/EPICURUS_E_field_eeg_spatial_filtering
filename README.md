@@ -1,5 +1,6 @@
 * Electric-field spatial TMS-EEG filtering for individualized time-series estimation of primarily targeted neural assemblies *
 
+![E-field_based_filtering](https://github.com/user-attachments/assets/fbe49df2-44b3-4232-a213-839d321503f4)
 
 
 Concurrent transcranial magnetic stimulation (TMS)  with electroencephalography (EEG) is a popular technique,
@@ -23,5 +24,3 @@ There is no guarantee of any kind.
 Xavier COROMINAS,
 Martina BRACCO,
 2024.
-
-![E-field_based_filtering](https://github.com/user-attachments/assets/fbe49df2-44b3-4232-a213-839d321503f4)
