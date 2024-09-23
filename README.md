@@ -19,4 +19,7 @@ Hauk O, Stenroos M. A framework for the design of flexible cross-talk functions 
 
 
 There is no guarantee of any kind.
-Xavier COROMINAS, 2024.
+
+Xavier COROMINAS,
+Martina BRACCO,
+2024.
