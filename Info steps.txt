@@ -1,6 +1,10 @@
-* INFO todo the preprocessing
+* INFO
 
-First : proprocess de the data with preprocessing_xavi
-Second: construct_lead_field_and_passband_for_deflect_thirdversion
-Third : pass all the data trought the deflect_xavi_2
-Forth: merge datasets with merge_datasets_xavi_final
+% STEPS to follow 
+
+First : proprocess your TMS-EEG data to filter out electromagnetic artefacts, noise, etc...
+
+Second: employ the "Leadfield_mesh_passband.mat" script to build the mesh models and the passbands based on the E-field projection.
+Third : Filter the data with the "Spatial_filtering.mat" script.
+
+Forth: merge fitlered datasets and fo your analyses.
