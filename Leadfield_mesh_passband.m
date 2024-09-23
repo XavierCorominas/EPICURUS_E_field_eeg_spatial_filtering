@@ -554,7 +554,7 @@ hold off;
 cortex_surf = meshes{1};
 
 bmeshes = meshes(1,2:4);
-cortex.p = meshcentroid(cortex_surf.p,cortex_surf.e); % eliminar aixo i ficar centres a default mesh?
+cortex.p = meshcentroid(cortex_surf.p,cortex_surf.e); 
 cortex.nn = surfacenorm(cortex_surf.p,cortex_surf.e);
 
 
@@ -690,9 +690,6 @@ close all;
 % Simnibs for segmenting head:
 addpath('<>\SimNIBS-4.0\simnibs_env\Lib\site-packages\simnibs\matlab_tools\')
 
-% Add path to dcm2nii tools
-%addpath('/Users/tpmutane/Documents/Double-coil/Dicom_2_nifti')
-
 % Add path to ISO2Mesh
 addpath('<>\iso2mesh-1.9.6\')
 
@@ -727,7 +724,7 @@ cd(path_to_leadfields)
 
 
 % Load EEG data to test the leadfields:
-EEG = pop_loadset('filename',(['your_TMS_eeg_preprocessed_dataset.set']),'filepath',(['pato_to_your_TMS_eeg_preprocessed_dataset\']));
+EEG = pop_loadset('filename',(['your_TMS_eeg_preprocessed_dataset.set']),'filepath',(['path_to_your_TMS_eeg_preprocessed_dataset\']));
 eeglab redraw
 
 
