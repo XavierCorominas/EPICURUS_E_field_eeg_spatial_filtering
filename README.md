@@ -23,3 +23,5 @@ There is no guarantee of any kind.
 Xavier COROMINAS,
 Martina BRACCO,
 2024.
+
+![E-field_based_filtering](https://github.com/user-attachments/assets/fbe49df2-44b3-4232-a213-839d321503f4)
