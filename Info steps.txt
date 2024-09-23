@@ -7,4 +7,6 @@ First : proprocess your TMS-EEG data to filter out electromagnetic artefacts, no
 Second: employ the "Leadfield_mesh_passband.mat" script to build the mesh models and the passbands based on the E-field projection.
 Third : Filter the data with the "Spatial_filtering.mat" script.
 
-Forth: merge fitlered datasets and fo your analyses.
+Fourth: merge fitlered datasets for your analyses.
+
+
