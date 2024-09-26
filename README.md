@@ -15,12 +15,15 @@ Results suggest that the spatial filtering procedure might be efficient enhancin
 
 
 
-The spatial filters here implemented are based on: 
-Hauk O, Stenroos M. A framework for the design of flexible cross-talk functions for spatial filtering of EEG/MEG data: DeFleCT. Hum Brain Mapp 2014;35:1642–53. 
+Recommended pre-reading: 
+Niessen E, Bracco M, Mutanen TP, Robertson EM. An analytical approach to identify indirect multisensory cortical activations elicited by TMS? Brain Stimulation: Basic, Translational, and Clinical Research in Neuromodulation 2021;14:376–8. 
+Hauk O, Stenroos M. A framework for the design of flexible cross-talk functions for spatial filtering of EEG/MEG data: DeFleCT. Hum Brain Mapp 2014;35:1642–53.
+Hämäläinen MS, Ilmoniemi RJ. Interpreting magnetic fields of the brain: minimum norm estimates. Med Biol Eng Comput 1994;32:35–42. https://doi.org/10.1007/BF02512476.
+Taulu S, Simola J. Spatiotemporal signal space separation method for rejecting nearby interference in MEG measurements. Phys Med Biol 2006;51:1759. https://doi.org/10.1088/0031-9155/51/7/008.
 
 
 There is no guarantee of any kind.
 
 Xavier COROMINAS,
 Martina BRACCO,
-2024.
+Paris, France, 2024.
