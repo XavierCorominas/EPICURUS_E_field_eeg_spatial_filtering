@@ -1,4 +1,4 @@
-* Electric-field spatial TMS-EEG filtering for individualized time-series estimation of primarily targeted neural assemblies *
+* Electric-field spatial TMS-EEG filtering for individualized time-series estimation of primarily targeted neural assemblies 
   
   
 ![E-field_based_filtering](https://github.com/user-attachments/assets/fbe49df2-44b3-4232-a213-839d321503f4)
