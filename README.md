@@ -6,6 +6,7 @@
 
 
 * General concept:
+
 We introduce a spatial filtering approach where Electric-field simulations are used as spatial filtering boundaries for subject-individualized data curation.
 
 The method enables individualized source reconstruction of time series arising from the primarily targeted structures employing a customized minimum norm-type estimator. 
