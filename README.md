@@ -29,6 +29,5 @@ Taulu S, Simola J. Spatiotemporal signal space separation method for rejecting n
 
 There is no guarantee of any kind.
 
-Xavier COROMINAS,
-Martina BRACCO,
+
 Paris, France, 2024.
