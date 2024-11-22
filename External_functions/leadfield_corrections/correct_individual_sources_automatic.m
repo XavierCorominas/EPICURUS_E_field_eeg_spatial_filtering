@@ -1,10 +1,7 @@
 function [LFM_correct] = correct_individual_sources_automatic(mesh, LFM, percentile_threshold)
 
 
-% Specify manually your desired percentiles. Play with its combination to
-% find the solution that best suits you (99, 87 works for Xavi)
-% percentile_threshold = 99;
-% percentile_interpolation = 87;
+
 
 % Generate new submatrix
 source_sentivity = sum(LFM.^2,1);
