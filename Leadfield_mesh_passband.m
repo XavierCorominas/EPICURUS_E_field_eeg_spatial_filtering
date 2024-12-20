@@ -28,7 +28,7 @@
  % ISO2mesh
  % EEGlab
  % Fieldtrip
- % Helsinki bem framework. - Disitributed within External_functions
+ % Helsinki bem framework. 
  
 %% **************** 1rst part of the script: build leadfield for DeFLECT ****************
 
