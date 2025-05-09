@@ -1,6 +1,6 @@
 # **EPICURUS: E-field-based spatial filtering procedure for an accurate estimation of local EEG activity evoked by Transcranial Magnetic Stimulation**
 
-Xavier Corominas-Teruel#, Tuomas P. Mutanen, Carlo Leto1, Maria Teresa Colomina, Cécile Gallea, Martina Bracco1*#, Antoni Valero-Cabré,5,6*#
+Xavier Corominas-Teruel#, Tuomas P. Mutanen, Carlo Leto, Maria Teresa Colomina, Cécile Gallea, Martina Bracco*#, Antoni Valero-Cabré*#
 Corresponding authors: Xavier Corominas-Teruel (xavi@drcmr.dk /xc.teruel@gmail.com), Martina Bracco (martina.bracco@icm-institute.org) Antoni Valero-Cabré (antoni.valerocabre@icm-institute.org). Cerebral Dynamics, Plasticity and Rehabilitation Group, FRONTLAB team, office 3.028, 48 Boulevard de l’Hôpital, Bâtiment ICM, Paris, France.
 
   
