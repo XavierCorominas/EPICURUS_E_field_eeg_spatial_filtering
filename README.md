@@ -1,4 +1,8 @@
-* Electric-field spatial TMS-EEG filtering for individualized time-series estimation of primarily targeted neural assemblies 
+**EPICURUS: E-field-based spatial filtering procedure for an accurate estimation of local EEG activity evoked by Transcranial Magnetic Stimulation**
+
+Xavier Corominas-Teruel1,2#, Tuomas P. Mutanen3, Carlo Leto1, Maria Teresa Colomina2, Cécile Gallea4, Martina Bracco1,4*#, Antoni Valero-Cabré,5,6*#
+Corresponding authors: Xavier Corominas-Teruel (xavi@drcmr.dk /xc.teruel@gmail.com), Martina Bracco (martina.bracco@icm-institute.org) Antoni Valero-Cabré (antoni.valerocabre@icm-institute.org). Cerebral Dynamics, Plasticity and Rehabilitation Group, FRONTLAB team, office 3.028, 48 Boulevard de l’Hôpital, Bâtiment ICM, Paris, France.
+
   
   
 ![E-field_based_filtering](https://github.com/user-attachments/assets/fbe49df2-44b3-4232-a213-839d321503f4)
