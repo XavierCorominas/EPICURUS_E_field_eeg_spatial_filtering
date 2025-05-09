@@ -15,13 +15,9 @@ https://www.biorxiv.org/content/10.1101/2025.02.16.638512v1
 
 **General Information**
 
-We introduce a spatial filtering approach where Electric-field simulations are used as spatial filtering boundaries for subject-individualized data curation.
+We introduce a spatial filtering approach in which electric field simulations from various non-invasive brain stimulation methods (e.g., transcranial magnetic stimulation (TMS), transcranial electrical stimulation (tES)) can be used as spatial filtering "boundaries" for subject-specific data processing. EPICURUS method enables individualized source reconstruction of time series originating from the primarily targeted brain regions by employing a customized minimum norm-type estimator, while minimizing signal leakage from distant non-directly stimulated sources.
 
-The method enables individualized source reconstruction of time series arising from the primarily targeted structures employing a customized minimum norm-type estimator. 
-
-To validate the present procedure, sensor level analyses was compared to source filtered signals employing TMS evoked potentials. Results suggest that the spatial filtering procedure might be efficient enhancing local hidden neuronal dynamics and reducing components emerging from distant topographies. 
-
-
+To validate the approach, a single pulse TMS-EEG experiment was conducted where single TMS pulses were delivered to the left motor cortex (M1). Sensor-level analyses were compared to source-filtered signals using TMS-evoked potentials (TEPs). Results suggest that the spatial filtering procedure effectively enhances local, previously hidden neuronal dynamics while reducing components arising from distant topographies.
 
 
 **Recommended pre-reading**
