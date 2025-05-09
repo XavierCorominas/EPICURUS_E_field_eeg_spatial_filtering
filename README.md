@@ -9,7 +9,7 @@ Corresponding authors: Xavier Corominas-Teruel (xavi@drcmr.dk /xc.teruel@gmail.c
 
 
 
-* General concept:
+**General Information**
 
 We introduce a spatial filtering approach where Electric-field simulations are used as spatial filtering boundaries for subject-individualized data curation.
 
@@ -20,7 +20,7 @@ To validate the present procedure, sensor level analyses was compared to source 
 
 
 
-* Recommended pre-reading: 
+**Recommended pre-reading**
 
 Niessen E, Bracco M, Mutanen TP, Robertson EM. An analytical approach to identify indirect multisensory cortical activations elicited by TMS? Brain Stimulation: Basic, Translational, and Clinical Research in Neuromodulation 2021;14:376–8.
 
@@ -32,6 +32,4 @@ Taulu S, Simola J. Spatiotemporal signal space separation method for rejecting n
 
 
 There is no guarantee of any kind.
-
-
-Paris, France, 2024.
+Paris, France, 2024-25.
