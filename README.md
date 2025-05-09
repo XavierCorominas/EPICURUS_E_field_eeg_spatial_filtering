@@ -2,6 +2,7 @@
 
 Xavier Corominas-Teruel#, Tuomas P. Mutanen, Carlo Leto, Maria Teresa Colomina, Cécile Gallea, Martina Bracco*#, Antoni Valero-Cabré*#
 Corresponding authors: Xavier Corominas-Teruel (xavier.corominas@icm-institute.org/xavi@drcmr.dk), Martina Bracco (martina.bracco@icm-institute.org) Antoni Valero-Cabré (antoni.valerocabre@icm-institute.org). 
+
 Cerebral Dynamics, Plasticity and Rehabilitation Group, FRONTLAB team, office 3.028, 48 Boulevard de l’Hôpital, Bâtiment ICM, Paris, France.
 
 
