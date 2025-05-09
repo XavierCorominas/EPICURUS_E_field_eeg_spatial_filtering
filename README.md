@@ -6,7 +6,7 @@ Corresponding authors: Xavier Corominas-Teruel (xavier.corominas@icm-institute.o
 Cerebral Dynamics, Plasticity and Rehabilitation Group, FRONTLAB team, office 3.028, 48 Boulevard de l’Hôpital, Bâtiment ICM, Paris, France.
 
 
-Please see for more details:
+Please see original publication for details:
 https://www.biorxiv.org/content/10.1101/2025.02.16.638512v1
   
 ![E-field_based_filtering](https://github.com/user-attachments/assets/fbe49df2-44b3-4232-a213-839d321503f4)
