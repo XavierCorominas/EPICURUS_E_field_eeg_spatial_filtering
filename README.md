@@ -9,7 +9,7 @@ Cerebral Dynamics, Plasticity and Rehabilitation Group, FRONTLAB team, office 3.
 Please see original publication for details:
 https://www.biorxiv.org/content/10.1101/2025.02.16.638512v1
   
-![E-field_based_filtering](https://github.com/user-attachments/assets/fbe49df2-44b3-4232-a213-839d321503f4)
+![image](https://github.com/user-attachments/assets/cecd1970-c69b-42f2-a48b-cc35d188204b)
 
 
 
